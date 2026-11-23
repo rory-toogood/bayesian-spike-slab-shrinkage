@@ -1,0 +1,21 @@
+Method,TPR,TNR,Time,Dataset
+SSVS (Fixed),0.704,0.979,56.1,All Runs
+BLASSO (Prior),0.637,0.96,102.6,All Runs
+BLASSO Faster (Prior),0.719,0.957,32.5,All Runs
+BLASSO Faster Faster (Prior),0.706,0.958,5.9,All Runs
+Horseshoe Faster Faster,0.484,0.961,177.8,All Runs
+Horseshoe+ Faster (Fixed),0.485,0.921,191.3,All Runs
+Horseshoe+ Faster (Prior),0.549,0.598,250.6,All Runs
+GDP Faster (Fixed),0.819,0.434,178.2,All Runs
+GDP Faster (Prior),0.809,0.847,67.7,All Runs
+SSVS (Fixed),0.7229,0.9894,2.96,Subset Runs
+Horseshoe (Prior),0.5104,0.8234,67.17,Subset Runs
+Horseshoe Faster Faster (Prior),0.609,0.996,35.34,Subset Runs
+Horseshoe+ (Fixed),0.1726,0.9629,88.75,Subset Runs
+Horseshoe+ Faster (Fixed),0.5299,0.944,29.31,Subset Runs
+Horseshoe+ (Prior),0.6222,0.8066,106.23,Subset Runs
+Horseshoe+ Faster (Prior),0.6413,0.7412,49.22,Subset Runs
+GDP (Fixed),0.7809,0.894,76.69,Subset Runs
+GDP Faster (Fixed),0.7719,0.4326,27.41,Subset Runs
+GDP (Prior),0.75,0.8108,71.92,Subset Runs
+GDP Faster (Prior),0.7622,0.9301,11.48,Subset Runs
